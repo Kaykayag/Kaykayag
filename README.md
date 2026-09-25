@@ -26,6 +26,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=<username>&theme=onedark&no-frame=true&column=6&margin-w=10" alt="Trophy Rack" />
+</p>
 
 ### 📊 GitHub Stats
 
